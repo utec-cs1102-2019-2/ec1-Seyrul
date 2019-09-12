@@ -12,10 +12,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="deaa4870-2be7-4232-8ed9-482a6aef9a6c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session4b/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session4a/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/session4a.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/session4a.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/session4a.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/session4a.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/session4a.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/session4a.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/session4a.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/session4a.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/session4a.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/session4a.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/session4a.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/session4a.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/session4a.dir/embed.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/session4a.dir/embed.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/session4a.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/session4a.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/session4a.dir/manifest.res" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/session4a.dir/manifest.res" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/session4a.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/session4a.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/session4a.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/session4a.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/session4a.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/CMakeFiles/session4a.dir/vc140.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/session4a.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/session4a.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/session4a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/session4a.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4a/cmake-build-debug/session4a.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/session4a/cmake-build-debug/session4a.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4b/trabajo1.cpp" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/session4a/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,12 +57,21 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/session4a/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/session4b/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -39,28 +79,29 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/session4b" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/session4a/primero.cpp" />
         <option value="$PROJECT_DIR$/session4a/main.cpp" />
+        <option value="$PROJECT_DIR$/session4b/trabajo1.cpp" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -73,15 +114,21 @@
               <item name="ec1-Seyrul" type="462c0819:PsiDirectoryNode" />
               <item name="session4a" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="session4a" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ec1-Seyrul" type="462c0819:PsiDirectoryNode" />
+              <item name="session4b" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/session4a/CMakeLists.txt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/session4b" />
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
   <component name="RunDashboard">
@@ -96,13 +143,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.session4a">
+  <component name="RunManager" selected="Application.session4a (1)">
     <configuration name="Unnamed" type="CMakeRunConfiguration" factoryName="Application" nameIsGenerated="true" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="session4a (1)" type="CMakeRunConfiguration" factoryName="Application" temporary="true" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="session4a" RUN_TARGET_NAME="session4a" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -115,7 +167,13 @@
     <list>
       <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.session4a" />
+      <item itemvalue="Application.session4a (1)" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.session4a (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -128,49 +186,61 @@
       <option name="presentableId" value="Default" />
       <updated>1568238818849</updated>
       <workItem from="1568238821199" duration="622000" />
+      <workItem from="1568298051276" duration="855000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="622000" />
+    <option name="totallyTimeSpent" value="1477000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="20" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18123667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="CMake" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.3298731" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3298731" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298731" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" visible="true" weight="0.30985916" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/session4a/primero.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/session4a/primero.cpp" />
+    <entry file="file://$PROJECT_DIR$/session4b/trabajo1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/session4a/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/session4b/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>

@@ -124,6 +124,33 @@ session4a\fast:
 	$(MAKE) -f CMakeFiles\session4a.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\session4a.dir\build
 .PHONY : session4a\fast
 
+C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.obj: C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.cpp.obj
+
+.PHONY : C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.obj
+
+# target to build an object file
+C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.cpp.obj:
+	$(MAKE) -f CMakeFiles\session4a.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\session4a.dir\C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.cpp.obj
+.PHONY : C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.cpp.obj
+
+C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.i: C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.cpp.i
+
+.PHONY : C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.i
+
+# target to preprocess a source file
+C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.cpp.i:
+	$(MAKE) -f CMakeFiles\session4a.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\session4a.dir\C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.cpp.i
+.PHONY : C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.cpp.i
+
+C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.s: C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.cpp.s
+
+.PHONY : C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.s
+
+# target to generate assembly for a file
+C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.cpp.s:
+	$(MAKE) -f CMakeFiles\session4a.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\session4a.dir\C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.cpp.s
+.PHONY : C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -160,6 +187,9 @@ help:
 	@echo ... edit_cache
 	@echo ... session4a
 	@echo ... rebuild_cache
+	@echo ... C_/Users/bryan.caceres/Desktop/ec1-Seyrul/session4b/trabajo1.obj
+	@echo ... C_/Users/bryan.caceres/Desktop/ec1-Seyrul/session4b/trabajo1.i
+	@echo ... C_/Users/bryan.caceres/Desktop/ec1-Seyrul/session4b/trabajo1.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

@@ -77,17 +77,38 @@ CMakeFiles\session4a.dir\main.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\session4a.dir\main.cpp.s /c C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session4a\main.cpp
 <<
 
+CMakeFiles\session4a.dir\C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.cpp.obj: CMakeFiles\session4a.dir\flags.make
+CMakeFiles\session4a.dir\C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.cpp.obj: C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/session4a.dir/C_/Users/bryan.caceres/Desktop/ec1-Seyrul/session4b/trabajo1.cpp.obj"
+	C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\session4a.dir\C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.cpp.obj /FdCMakeFiles\session4a.dir\ /FS -c C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.cpp
+<<
+
+CMakeFiles\session4a.dir\C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/session4a.dir/C_/Users/bryan.caceres/Desktop/ec1-Seyrul/session4b/trabajo1.cpp.i"
+	C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\cl.exe > CMakeFiles\session4a.dir\C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.cpp
+<<
+
+CMakeFiles\session4a.dir\C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/session4a.dir/C_/Users/bryan.caceres/Desktop/ec1-Seyrul/session4b/trabajo1.cpp.s"
+	C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\session4a.dir\C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.cpp.s /c C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.cpp
+<<
+
 # Object files for target session4a
 session4a_OBJECTS = \
-"CMakeFiles\session4a.dir\main.cpp.obj"
+"CMakeFiles\session4a.dir\main.cpp.obj" \
+"CMakeFiles\session4a.dir\C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.cpp.obj"
 
 # External object files for target session4a
 session4a_EXTERNAL_OBJECTS =
 
 session4a.exe: CMakeFiles\session4a.dir\main.cpp.obj
+session4a.exe: CMakeFiles\session4a.dir\C_\Users\bryan.caceres\Desktop\ec1-Seyrul\session4b\trabajo1.cpp.obj
 session4a.exe: CMakeFiles\session4a.dir\build.make
 session4a.exe: CMakeFiles\session4a.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable session4a.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable session4a.exe"
 	"C:\Program Files\JetBrains\CLion 2018.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\session4a.dir --manifests  -- C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\session4a.dir\objects1.rsp @<<
  /out:session4a.exe /implib:session4a.lib /pdb:C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session4a\cmake-build-debug\session4a.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<
