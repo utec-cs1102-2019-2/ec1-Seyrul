@@ -4,3 +4,5 @@ project(session4b)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(session4b main.cpp)
+add_executable(session4b_ej3 ejercicio3.cpp)
+add_executable(session4b_ej4 ejercicio4.cpp )

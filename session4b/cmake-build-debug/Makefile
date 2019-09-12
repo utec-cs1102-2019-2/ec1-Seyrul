@@ -124,6 +124,86 @@ session4b\fast:
 	$(MAKE) -f CMakeFiles\session4b.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\session4b.dir\build
 .PHONY : session4b\fast
 
+#=============================================================================
+# Target rules for targets named session4b_ej3
+
+# Build rule for target.
+session4b_ej3: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) session4b_ej3
+.PHONY : session4b_ej3
+
+# fast build rule for target.
+session4b_ej3\fast:
+	$(MAKE) -f CMakeFiles\session4b_ej3.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\session4b_ej3.dir\build
+.PHONY : session4b_ej3\fast
+
+#=============================================================================
+# Target rules for targets named session4b_ej4
+
+# Build rule for target.
+session4b_ej4: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) session4b_ej4
+.PHONY : session4b_ej4
+
+# fast build rule for target.
+session4b_ej4\fast:
+	$(MAKE) -f CMakeFiles\session4b_ej4.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\session4b_ej4.dir\build
+.PHONY : session4b_ej4\fast
+
+ejercicio3.obj: ejercicio3.cpp.obj
+
+.PHONY : ejercicio3.obj
+
+# target to build an object file
+ejercicio3.cpp.obj:
+	$(MAKE) -f CMakeFiles\session4b_ej3.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\session4b_ej3.dir\ejercicio3.cpp.obj
+.PHONY : ejercicio3.cpp.obj
+
+ejercicio3.i: ejercicio3.cpp.i
+
+.PHONY : ejercicio3.i
+
+# target to preprocess a source file
+ejercicio3.cpp.i:
+	$(MAKE) -f CMakeFiles\session4b_ej3.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\session4b_ej3.dir\ejercicio3.cpp.i
+.PHONY : ejercicio3.cpp.i
+
+ejercicio3.s: ejercicio3.cpp.s
+
+.PHONY : ejercicio3.s
+
+# target to generate assembly for a file
+ejercicio3.cpp.s:
+	$(MAKE) -f CMakeFiles\session4b_ej3.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\session4b_ej3.dir\ejercicio3.cpp.s
+.PHONY : ejercicio3.cpp.s
+
+ejercicio4.obj: ejercicio4.cpp.obj
+
+.PHONY : ejercicio4.obj
+
+# target to build an object file
+ejercicio4.cpp.obj:
+	$(MAKE) -f CMakeFiles\session4b_ej4.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\session4b_ej4.dir\ejercicio4.cpp.obj
+.PHONY : ejercicio4.cpp.obj
+
+ejercicio4.i: ejercicio4.cpp.i
+
+.PHONY : ejercicio4.i
+
+# target to preprocess a source file
+ejercicio4.cpp.i:
+	$(MAKE) -f CMakeFiles\session4b_ej4.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\session4b_ej4.dir\ejercicio4.cpp.i
+.PHONY : ejercicio4.cpp.i
+
+ejercicio4.s: ejercicio4.cpp.s
+
+.PHONY : ejercicio4.s
+
+# target to generate assembly for a file
+ejercicio4.cpp.s:
+	$(MAKE) -f CMakeFiles\session4b_ej4.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\session4b_ej4.dir\ejercicio4.cpp.s
+.PHONY : ejercicio4.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -158,8 +238,16 @@ help:
 	@echo ... clean
 	@echo ... depend
 	@echo ... session4b
+	@echo ... session4b_ej3
+	@echo ... session4b_ej4
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... ejercicio3.obj
+	@echo ... ejercicio3.i
+	@echo ... ejercicio3.s
+	@echo ... ejercicio4.obj
+	@echo ... ejercicio4.i
+	@echo ... ejercicio4.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
