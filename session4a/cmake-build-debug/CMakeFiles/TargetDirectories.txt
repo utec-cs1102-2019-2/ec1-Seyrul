@@ -1,3 +1,0 @@
-C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session4a/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session4a/cmake-build-debug/CMakeFiles/session4a.dir
-C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session4a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
