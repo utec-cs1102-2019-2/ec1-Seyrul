@@ -214,14 +214,14 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session6a/cmake-build-debug/e3.cpp">
-			<Option target="session6a3"/>
-		</Unit>
 		<Unit filename="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session6a/e1.cpp">
 			<Option target="session6a1"/>
 		</Unit>
 		<Unit filename="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session6a/e2.cpp">
 			<Option target="session6a2"/>
+		</Unit>
+		<Unit filename="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session6a/e3.cpp">
+			<Option target="session6a3"/>
 		</Unit>
 		<Unit filename="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session6a/main.cpp">
 			<Option target="session6a"/>

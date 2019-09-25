@@ -36,7 +36,7 @@ void imprimir_notas(int notas[], int n, int p){
     cout<<"-------|---------------"<<endl;
     for (int i=0;i<n;i++){
         if (notas[i]>p)
-        cout<<i<<"\t"<<notas[i]<<endl;
+            cout<<i<<"\t"<<notas[i]<<endl;
     }
 }
 int calcular_promedio(int notas[], int n){
@@ -44,13 +44,13 @@ int calcular_promedio(int notas[], int n){
     int cant=0;
     for (int i=0;i<n;i++){
         if(notas[i]>=0){
-        suma+=notas[i];
-        cant+=1;}
+            suma+=notas[i];
+            cant+=1;}
     }
     return suma/cant;
 }
 int calcular_nota_mayor(int notas[], int n) {
-   int mayor=0;
+    int mayor=0;
     for (int i = 0; i < n; i++) {
         if (notas[i] > mayor)
             mayor=notas[i];
