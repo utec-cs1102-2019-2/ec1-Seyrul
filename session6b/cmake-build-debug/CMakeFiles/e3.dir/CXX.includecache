@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session6b/ejercicio3.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+
