@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="session7b"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session7b/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="e2">
+				<Option output="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session7b/cmake-build-debug/e2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session7b/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.21.27702\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.21.27702\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 e2"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="e2/fast">
+				<Option output="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session7b/cmake-build-debug/e2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session7b/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.21.27702\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.21.27702\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 e2/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="session7b">
+				<Option output="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session7b/cmake-build-debug/session7b.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session7b/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.21.27702\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.21.27702\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 session7b"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="session7b/fast">
+				<Option output="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session7b/cmake-build-debug/session7b.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session7b/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.21.27702\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.21.27702\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 session7b/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="e1">
+				<Option output="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session7b/cmake-build-debug/e1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session7b/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.21.27702\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.21.27702\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 e1"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="e1/fast">
+				<Option output="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session7b/cmake-build-debug/e1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session7b/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.21.27702\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.21.27702\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 e1/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="e3">
+				<Option output="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session7b/cmake-build-debug/e3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session7b/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.21.27702\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.21.27702\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 e3"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="e3/fast">
+				<Option output="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session7b/cmake-build-debug/e3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session7b/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.21.27702\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.21.27702\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 e3/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session7b/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session7b/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\bryan.caceres\Desktop\ec1-Seyrul\session7b\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session7b/ejercicio1.cpp">
+			<Option target="e1"/>
+		</Unit>
+		<Unit filename="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session7b/ejercicio2.cpp">
+			<Option target="e2"/>
+		</Unit>
+		<Unit filename="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session7b/ejercicio3.cpp">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session7b/main.cpp">
+			<Option target="session7b"/>
+		</Unit>
+		<Unit filename="C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session7b/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
