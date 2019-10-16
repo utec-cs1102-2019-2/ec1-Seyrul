@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session9a/Cilindro.h
+
+C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session9a/ejercicio2.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+Cilindro.h
+C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session9a/Cilindro.h
+
