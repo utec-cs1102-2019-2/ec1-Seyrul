@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session10a/teclado.cpp
+teclado.h
+C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session10a/teclado.h
+
+C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session10a/teclado.h
+

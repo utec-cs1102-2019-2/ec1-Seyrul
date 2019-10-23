@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session10a/computadora.cpp
+computadora.h
+C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session10a/computadora.h
+
+C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session10a/computadora.h
+
