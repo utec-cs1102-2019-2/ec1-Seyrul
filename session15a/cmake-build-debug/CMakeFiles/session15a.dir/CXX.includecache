@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session15a/baraja.cpp
+baraja.h
+C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session15a/baraja.h
+
+C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session15a/baraja.h
+palo.h
+C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session15a/palo.h
+
+C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session15a/carta.h
+iostream
+-
+
+C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session15a/palo.cpp
+palo.h
+C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session15a/palo.h
+
+C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session15a/palo.h
+carta.h
+C:/Users/bryan.caceres/Desktop/ec1-Seyrul/session15a/carta.h
+vector
+-
+
